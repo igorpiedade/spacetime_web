@@ -3,6 +3,8 @@ import { NextRequest, NextResponse } from 'next/server'
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url)
+  console.log(request.url)
+
   const code = searchParams.get('code')
 
   const redirectTo = request.cookies.get('redirectTo')?.value
@@ -13,7 +15,7 @@ export async function GET(request: NextRequest) {
 
   const { token } = registerResponse.data
 
-  const redirectURL = redirectTo ?? new URL('/', request.url)
+  const redirectURL = redirectTo ?? new URL('/', process.env.NEXT_APP_URL)
 
   return NextResponse.redirect(redirectURL, {
     headers: {
