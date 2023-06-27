@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Spacetime Screen Shot][product-screenshot]]
+<img src="/src/assets/screenshot.png">
 
 Spacetime is an study application that provides a nice way for users to save and share important milestones of their lifes. 
 The project is spareted in 3 repositores, one for each piece:
@@ -54,8 +54,8 @@ The project is spareted in 3 repositores, one for each piece:
 * [![React][React.js]][React-url]
 * [![Tailwind CSS][Tailwindcss.com]][Tailwind-url]
 * [![Github][Github.com]][Github-url]
-* [![Javascript][Javascript.js]][]
-* [![Typescript][Typescript.org]][[Typescript-url]]
+* [![Javascript][Javascript.js]][Js-url]
+* [![Typescript][Typescript.org]][Typescript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,5 +91,6 @@ Igor Piedade - igor@piedade.live
 [Github.com]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Github-url]: https://github.com
 [Javascript.js]: https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F
+[Js.org]: https://js.org
 [Typescript.org]: https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc
 [Typescript-url]: https://www.typescriptlang.org
