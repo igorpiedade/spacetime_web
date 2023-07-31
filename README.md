@@ -92,5 +92,5 @@ Igor Piedade - igor@piedade.live
 [Github-url]: https://github.com
 [Javascript.js]: https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=black
 [Js-url]: https://js.org
-[Typescript.org]: https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc
+[Typescript.org]: https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=black
 [Typescript-url]: https://www.typescriptlang.org
