@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/igorpiedade/spacetime_web">
-    <img src="https://github.com/igorpiedade/spacetime_web/blob/main/public/images/spacetimeLogo.svg">
+    <img src="https://github.com/igorpiedade/spacetime_web/blob/main/src/assets/spacetimeLogo.svg">
   </a>
 
 <h3 align="center">Spacetime - Front-end Web</h3>
@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="/src/assets/screenshot.png">
+<img src="/public/images/screenshot.png">
 
 Spacetime is an study application that provides a nice way for users to save and share important milestones of their lifes. 
 The project is spareted in 3 repositores, one for each piece:
@@ -92,5 +92,5 @@ Igor Piedade - igor@piedade.live
 [Github-url]: https://github.com
 [Javascript.js]: https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=black
 [Js-url]: https://js.org
-[Typescript.org]: https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=black
+[Typescript.org]: https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc
 [Typescript-url]: https://www.typescriptlang.org
