@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/igorpiedade/spacetime_web">
-    <img src="https://github.com/igorpiedade/spacetime_web/blob/main/src/assets/spacetimeLogo.svg">
+    <img src="https://github.com/igorpiedade/spacetime_web/blob/main/public/images/spacetimeLogo.svg">
   </a>
 
 <h3 align="center">Spacetime - Front-end Web</h3>
